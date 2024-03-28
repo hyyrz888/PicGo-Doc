@@ -65,3 +65,5 @@ Mini窗口只支持Windows和Linux，macOS可以使用顶部栏图标。（因�
 3. 可以将图片复制到剪贴板，然后点击`剪贴板图片上传`按钮来上传。
 
 ![](https://pic.molunerfinn.com/picgo/docs/picgo-2.0.gif)
+
+:::tip 没有登录入口 上传报未登录
